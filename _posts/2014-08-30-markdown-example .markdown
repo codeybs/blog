@@ -20,7 +20,7 @@ Markdown 支持两种标题的语法：
 
 这是setext最高阶标题
 ============
-=
+
 这是setext第二阶标题
 -------------
 
@@ -77,11 +77,11 @@ _emphasized also_
 有序的列表则是使用一般的数字接着一个英文句点作为项目标记
 -->
 
-*item1
++ item1
 
-*item2
++ item2
 
-*item3
++ item3
 
 1.item1
 
