@@ -3,7 +3,7 @@ title: BaoshengYu's Blog.
 email: yubaosheng1011@gmail.com
 author: BaoshengYu
 description: "This is BaoshengYu's Blog.Welcome to my blog."
-baseurl: /blog
+baseurl: /
 #baseurl: ""
 url: "http://codeybs.github.io/blog"
 
