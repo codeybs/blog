@@ -127,8 +127,9 @@ I get 10 times more traffic from [Google][1] than from
 这项特性让你可以很容易的在代码区段内插入 HTML 码
 -->
 
-
-
+{% test %}
+hello world
+{% endtest %}
 
 
 
