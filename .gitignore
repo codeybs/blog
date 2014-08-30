@@ -20,4 +20,4 @@ test.txt
 #忽略note.txt
 
 #忽略_sites文件夹
-_sites/*
+_site/*
