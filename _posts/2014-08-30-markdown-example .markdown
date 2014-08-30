@@ -83,11 +83,11 @@ _emphasized also_
 
 + item3
 
-1.item1
+1. item1
 
-2.item2
+2. item2
 
-3.item3
+3. item3
 
 
 
@@ -119,7 +119,7 @@ I get 10 times more traffic from [Google][1] than from
 参考形式：
 ![alt text][id]
 
-[id]: /blog/image/test.jpg "Title"
+[id]: ./image/test.jpg "Title"
 
 <!--代码
 在一般的段落文字中，你可以使用反引号 ` 来标记代码区段，
