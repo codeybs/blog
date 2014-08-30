@@ -431,6 +431,11 @@ a:visited { color: #205caa; }
 
 }
 
+img 
+{
+  text-align: center;
+  margin: 0 auto;
+}
 
 #header-wrap
 {
