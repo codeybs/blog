@@ -19,15 +19,21 @@ Markdown 支持两种标题的语法：
 -->
 
 这是setext最高阶标题
-=============
+============
+=
 这是setext第二阶标题
 -------------
 
 #这是Atx形式1阶标题
+
 ##这是Atx形式2阶标题
+
 ###这是Atx形式3阶标题
+
 ####这是Atx形式4阶标题
+
 #####这是Atx形式5阶标题
+
 ######这是Atx形式6阶标题
 
 
@@ -76,7 +82,9 @@ _emphasized also_
 *item3
 
 1.item1
+
 2.item2
+
 3.item3
 
 
@@ -94,7 +102,9 @@ I get 10 times more traffic from [Google][1] than from
 [Yahoo][2] or [MSN][3].
 
 [1]: http://google.com/ "Google"
+
 [2]: http://search.yahoo.com/ "Yahoo Search"
+
 [3]: http://search.msn.com/ "MSN Search"
 
 
@@ -103,8 +113,10 @@ I get 10 times more traffic from [Google][1] than from
 图片的语法和链接很像
 -->
 行内形式：![alt text](/path/to/img.jpg "Title")
+
 参考形式：
 ![alt text][id]
+
 [id]: /path/to/img.jpg "Title"
 
 <!--代码
