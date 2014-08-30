@@ -7,10 +7,9 @@ author: BaoshengYu
 ---
 
 
---------
 
 
-## 关于Git
+## 关于Git ##
 
 + [Git Reference](http://git-scm.com/docs)
 + [Pro Git](http://git-scm.com/book),[[简体中文]](http://git-scm.com/book/zh)
@@ -20,21 +19,24 @@ author: BaoshengYu
 
 --------
 
-## 关于Github 
+## 关于Github ##
+
 + [Github](https://github.com/)
 + [Github Tutorial](http://rogerdudler.github.io/git-guide/index.zh.html)
 + [Gibhub Pages](https://pages.github.com/)
 
 --------
 
-## 关于Jekyll
+## 关于Jekyll ##
+
 + [Jekyll主页](http://jekyllrb.com/)[[中文官网]](http://jekyllcn.com/)
 + [Jekyll文档](http://jekyllcn.com/docs/home/)
 + [使用Jekyll和Github搭建博客](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
 --------
 
-## 关于Markdown
+## 关于Markdown ##
+
 + [Markdown文档](http://wowubuntu.com/markdown/index.html)
 + [Markdown Tutorial](http://markdowntutorial.com/)
 + [Markdown在线编辑器](https://www.zybuluo.com/mdeditor)
