@@ -114,12 +114,12 @@ I get 10 times more traffic from [Google][1] than from
 <!--图片
 图片的语法和链接很像
 -->
-行内形式：![alt text](./image/test.jpg "Title")
+行内形式：![alt text](/blog/image/test.jpg "Title")
 
 参考形式：
 ![alt text][id]
 
-[id]: ./image/test.jpg "Title"
+[id]: /blog/image/test.jpg "Title"
 
 <!--代码
 在一般的段落文字中，你可以使用反引号 ` 来标记代码区段，
