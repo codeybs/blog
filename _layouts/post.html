@@ -5,7 +5,7 @@ layout: default1
   <header class="post-header">
      <a href="http://codeybs.github.io/blog/" style="diplay:block;border:none thin;float:right;font-size:40px;color:gray;" >Blog</a>
     <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
    
   </header>
   <article class="post-content">
