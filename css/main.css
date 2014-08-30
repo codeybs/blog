@@ -254,8 +254,8 @@ a:visited { color: #205caa; }
 
 .post pre,
 .post code {
-  border: 1px none black;
-  background-color: gray;
+  border: 1px solid thin black;
+  background-color: white;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
