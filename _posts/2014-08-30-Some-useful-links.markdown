@@ -8,7 +8,7 @@ author: BaoshengYu
 
 
 --------
-## 1.关于git
+## 关于Git
 
 + [Git Reference](http://git-scm.com/docs)
 + [Pro Git](http://git-scm.com/book),[[简体中文]](http://git-scm.com/book/zh)
