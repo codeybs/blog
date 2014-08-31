@@ -45,3 +45,7 @@ author: BaoshengYu
 
 --------
 
+## 关于Disqus ##
+
++ [Disqus](https://disqus.com/) helps you build a community of active readers and commenters.
+
