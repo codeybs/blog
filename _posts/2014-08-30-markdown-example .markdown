@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "markdown example"
+title:  "Markdown Example"
 date:   2014-08-30 15:15:41
 categories: jekyll update
 author: BaoshengYu
