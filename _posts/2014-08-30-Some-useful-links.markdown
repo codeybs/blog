@@ -15,7 +15,7 @@ author: BaoshengYu
 + [Pro Git](http://git-scm.com/book),[[简体中文]](http://git-scm.com/book/zh)
 + [Official Git Tutorial](http://git-scm.com/docs/gittutorial)
 + [Everyday Git](http://git-scm.com/docs/everyday)
-+ [Git-Tutorial](http://www.liaoxuefeng.com),[[pdf]](Git-Tutorial)
++ [Git-Tutorial](http://www.liaoxuefeng.com)
 
 --------
 
@@ -39,8 +39,10 @@ author: BaoshengYu
 
 + [Markdown文档](http://wowubuntu.com/markdown/index.html)
 + [Markdown Tutorial](http://markdowntutorial.com/)
-+ [Markdown在线编辑器](https://www.zybuluo.com/mdeditor)
 + [简书Markdown指南](http://jianshu.io/p/q81RER)
++ [在线编辑器Dillinger](http://dillinger.io/)
++ [在线编辑器Cmd Markdown](https://www.zybuluo.com/mdeditor)
+
 
 
 --------
