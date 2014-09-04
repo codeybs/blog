@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Australia Dollar"
+title:  "Australian Dollar"
 date:   2014-09-04 19:15:41
 author: BaoshengYu
 --- 
