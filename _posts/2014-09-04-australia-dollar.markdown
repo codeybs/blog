@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "关于澳元"
+date:   2014-09-04 19:15:41
+author: BaoshengYu
+--- 
+
+
 ### 纸币
 
 
