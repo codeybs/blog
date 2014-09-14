@@ -5,10 +5,10 @@
 # Enjoy it.
 
 # Give the access permission to all users.
-sudo chmod a+x blog.sh
+sudo chmod a+x ./blog.sh
 
 # Copy it to the directory "/usr/bin"
-sudo cp ./blog.sh /usr/bin/blog.sh
+sudo cp ./blog.sh /usr/bin/blog
 
 # OK!
-echo `blog.sh help`
+echo 'OK!'

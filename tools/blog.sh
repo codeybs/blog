@@ -25,21 +25,7 @@ DEBUG()
 	fi
 }
 
-#format the filename to standard. e.g. 2014-09-12-file-name.md
-format_filename()
-{
-	#get the filename $1
-	local filename= $1;
-	DEBUG echo  $filename
-	if [ "$filename" = "" ];then
-		filename="new-blog"`date +'%Y%m%d'`
-	fi
-	local format_filename=`date +'%Y-%m-%d''-'`$filename'.md'
-	DEBUG echo $format_filename
-	
-}
-#--------------------------------------------------------------------------------------------
-
+# Build a new blog.
 if [ "$1" = "new" ];then
 	DEBUG echo 'build a new blog!'
 	cd $BLOG_EDIT_DIR
@@ -69,7 +55,7 @@ if [ "$1" = "new" ];then
 	#export blog_name=$blog_filename		
 	#use emacs to edit the blog.
 	emacs -nw $blog_filename
-	ls
+	ls $BLOG_EDIT_DIR
 
 elif [ "$1" = "pre" ]||[ "$1" = "preview" ];then
 	DEBUG echo 'Preview the new blog!'
@@ -104,6 +90,7 @@ elif [ "$1" = "push" ];then
 	git commit -m $blog_filename`date +"%Y%m%d_%H:%M:%S"`
 	git push origin gh_pages
 	cd $BLOG_EDIT_DIR
+
 else 
 	echo ''
 	echo '*---------------Help Information!----------------*'
