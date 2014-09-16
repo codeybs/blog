@@ -88,7 +88,7 @@ elif [ "$1" = "push" ];then
 	cd $BLOG_MAIN_DIR
 	git add .
 	git commit -m $blog_filename`date +"%Y%m%d_%H:%M:%S"`
-	git push origin gh_pages
+	git push origin gh-pages
 	cd $BLOG_EDIT_DIR
 
 else 
