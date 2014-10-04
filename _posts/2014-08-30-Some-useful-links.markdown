@@ -41,7 +41,7 @@ author: BaoshengYu
 + [Markdown Tutorial](http://markdowntutorial.com/)
 + [简书Markdown指南](http://jianshu.io/p/q81RER)
 + [在线编辑器Dillinger](http://dillinger.io/)
-+ [在线编辑器Cmd Markdown](https://www.zybuluo.com/mdeditor)
++ [在线编辑器Cmd Markdown](https://www.zybuluo.com/mdeditor),[使用mathjax  处理latex数学公式tutorial](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) 。
 
 
 
