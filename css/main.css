@@ -55,7 +55,7 @@ a:visited { color: #205caa; }
 .site-title,
 .site-title:hover,
 .site-title:visited {
-  padding-top:25px;
+  padding-top: 25px;
   display: block;
   color: black;
   font-size: 30px;
