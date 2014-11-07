@@ -163,9 +163,8 @@ a:visited { color: #205caa; }
 .posts { list-style-type: none; }
 
 .posts li { 
-	margin-bottom: 10px;margin-top:10px; border:none thin;
+	margin-bottom: 10px;margin-top:0px; border:none thin;
 	display:block;
-	height:45px;	
 	 }
 
 .posts .post-link {
@@ -173,7 +172,7 @@ a:visited { color: #205caa; }
   letter-spacing: 0px;
   display:block;
   padding-top:2px;
-  padding-left:60px;
+  padding-left:0px;
   color:black;
   font-weight:300;
 }
